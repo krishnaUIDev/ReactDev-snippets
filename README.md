@@ -1,4 +1,4 @@
-# VS Code React Standard Style snippets
+# VS Code ReactDev-snippets
 
 This extension contains code snippets for [React][react] following the [JavaScript Standard Style](http://standardjs.com/) guidelines and is based on the awesome [babel-sublime-snippets][babelsublime] package.
 
