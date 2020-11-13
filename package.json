@@ -1,0 +1,37 @@
+{
+  "name": "reactdev-snippets",
+  "displayName": "ReactDev-snippets",
+  "description": "Code snippets for react, redux, typescript, mongoose and Node",
+  "publisher": "Krishnakanth",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "1.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krishnaUIDev/vs-theme"
+  },
+  "galleryBanner": {
+    "color": "#193549",
+    "theme": "dark"
+  },
+  "keywords": [
+    "React",
+    "React shortcuts",
+    "Redux",
+    "Javascript",
+    "Node"
+  ],
+  "icon": "images/logo.jpg",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "js",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
