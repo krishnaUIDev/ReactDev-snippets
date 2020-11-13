@@ -89,3 +89,26 @@ For example `pta` creates the `PropTypes.array` and `ptar` creates the `PropType
 | `ptoor→` | `PropTypes.objectOf(PropTypes.number).isRequired,`                                   |
 |  `ptsh→` | `PropTypes.shape({color: PropTypes.string, fontSize: PropTypes.number}),`            |
 | `ptshr→` | `PropTypes.shape({color: PropTypes.string, fontSize: PropTypes.number}).isRequired,` |
+
+---
+
+## publishing
+
+##### packaging extension
+
+```shell
+vsce package
+```
+
+##### Publishing to market place
+
+```shell
+vsce publish (Personal access token)
+```
+
+## RoadMap
+
+- Typescript snippets
+- Mongodb snippets
+- Node and express Snippets
+- Mongoose snippets
